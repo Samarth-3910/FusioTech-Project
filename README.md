@@ -19,3 +19,8 @@ This repository contains a collection of C programs related to various applicati
 4. **Simple Calculator**
    - Description: Basic calculator program supporting addition, subtraction, multiplication, division, logarithmic values, and square root.
    - File: `Simple_Calculator.c`
+
+5. **Cricket ScoreBoard**
+   - Description: The program uses a structure `Inning` to represent match innings with details such as the team name, total runs, total wickets, and overs. It simulates a cricket match 
+                  and updates the scores for two innings. Finally, it prints match statistics, runs scored, and the results.
+   - File: `Cricket_ScoreBoard.c`
